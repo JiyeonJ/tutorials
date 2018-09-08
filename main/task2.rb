@@ -5,4 +5,9 @@ class Task2
     ddd
     eee
     fff
+    hello
+    my
+    name
+    is
+    jung
 end
