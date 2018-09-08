@@ -1,7 +1,4 @@
 class Task2
-    hello
-    my
-    name
-    is
-    jung
+    my name is jung
+    this is my friend kim
 end
