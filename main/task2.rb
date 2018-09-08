@@ -1,4 +1,13 @@
 class Task2
-    my name is jung
-    this is my friend kim
+    aaa
+    bbb
+    ccc
+    ddd
+    eee
+    fff
+    hello
+    my
+    name
+    is
+    jung
 end
