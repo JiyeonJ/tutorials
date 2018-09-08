@@ -1,11 +1,5 @@
 class Task2
-    aaa
-    bbb
-    ccc
-    ddd
-    eee
-    fff
-    hello
+    hellow
     my
     name
     is
