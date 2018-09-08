@@ -6,6 +6,6 @@ class Task3
     5
 
     6
-    7
+    70
     8
 end
